@@ -1,0 +1,52 @@
+.heading{
+    width: 100%;
+    font-size: 23px;
+    margin: 0px;
+}
+
+body{
+    background-size: cover;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+}
+
+.song{
+    font-size: 23px;
+}
+
+canvas{
+    border: 5px dashed white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #73cfd8;
+    height:400px;
+    width: 500px;
+}
+
+#speed{
+    float: right;
+}
+
+.disk{
+    width: 200px; 
+    border-radius: 100px;
+}
+
+#speed2{
+    font-size: 25px;
+}
+
+#vol{
+    float: left;
+}
+
+.disk{
+    width: 200px; 
+    border-radius: 100px;
+}
+
+#Volume2{
+    font-size: 25px;
+}
